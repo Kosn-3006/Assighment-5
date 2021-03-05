@@ -1,2 +1,0 @@
-1. Create any interface with two methods (one of them must have a default implementation)
-Inside the main method, you are asked to create a reference of that interface type, without having any concrete class that implements an interface.
